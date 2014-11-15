@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-REW's repository for Johns Hopkins Data Science courses
+rewyllys's repository for Johns Hopkins Data Science courses
